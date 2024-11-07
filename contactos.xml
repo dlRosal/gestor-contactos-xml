@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<contactos>
+                
+    
+    
+    <contacto>
+                                
+        
+        
+        <nombre>Alvaro del Rosal</nombre>
+                                
+        
+        
+        <telefono>8963522</telefono>
+                                
+        
+        
+        <direccion>Calle falsa</direccion>
+                            
+    
+    
+    </contacto>
+            
+    
+    
+    <contacto>
+                        
+        
+        <nombre>Nombre Apellido</nombre>
+                        
+        
+        <telefono>889698123</telefono>
+                        
+        
+        <direccion>Calle Falsa123</direccion>
+                    
+    
+    </contacto>
+        
+    
+    <contacto>
+                
+        <nombre>Pisto Piston</nombre>
+                
+        <telefono>Piscolabia12313</telefono>
+                
+        <direccion>Calle Aceituna</direccion>
+            
+    </contacto>
+    
+    <contacto>
+        <nombre>Alvaro</nombre>
+        <telefono>97907899</telefono>
+        <direccion>Calle falsa</direccion>
+    </contacto>
+</contactos>
